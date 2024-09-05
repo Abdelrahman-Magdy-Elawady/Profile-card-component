@@ -25,8 +25,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-HJcXcRA0V6)
+- [Add live site URL here](https://profile-card-component-dun-three.vercel.app/)
 
 ## My process
 
@@ -39,6 +39,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@Abdelrahman Magdy](https://www.frontendmentor.io/profile/Abdelrahman-Magdy-Elawady)
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- LinkedIn - [@Abdelrahman Magdy](www.linkedin.com/in/abdelrahman-magdy-el-awady)
